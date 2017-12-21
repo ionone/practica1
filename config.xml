@@ -8,6 +8,5 @@
         David
     </author>
     <content src="index.html" />
-    <access origin="*" />
-    <icon src="www/assets/icon.ico"/>
+    <access origin="*" />    
 </widget>
