@@ -1,4 +1,4 @@
-# Juego demostracion de las capacidades del acelerometro
+# Juego Modulo 4 MOOC Aprende a Programar Aplicaciones para móviles
 
 ## Usage
 
