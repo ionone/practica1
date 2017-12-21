@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "Juego",
+  "short_name": "Juego",
+  "version": "com.phonegap.helloworld",
+  "description": "Juego demostracion de las capacidades del acelerometro.",
+  "author": "Devscola",
+  "icons": [],
+  "start_url": "index.html"
+}
