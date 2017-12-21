@@ -6,13 +6,8 @@
   "scope": "index.html",
   "icons": [
     {
-      "src": "img/logo.png",
-      "sizes": "192x192",
-      "type": "image/png"
-    },
-    {
-      "src": "img/splash.png",
-      "sizes": "512x512",
+      "src": "assets/icono.png",
+      "sizes": "57x57",
       "type": "image/png"
     }
   ],
